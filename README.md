@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truong5614&label=Profile%20views&color=0e75b6&style=flat" alt="truong5614" /> </p>
 
-- My project recent: [TubeTube_-CloneYoutube-](https://github.com/Truong5613/TubeTube_-CloneYoutube-)
+- My recent project: [TubeTube_-CloneYoutube-](https://github.com/Truong5613/TubeTube_-CloneYoutube-)
 
 - The old chatapp project on netbean Apache: [Chat-App_FULL](https://github.com/Truong5613/Chat-App_FULL)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **huytruonggl81@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
